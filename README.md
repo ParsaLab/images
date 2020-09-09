@@ -3,7 +3,7 @@
 
 My image: ubuntu 16.04 LTS (64-bit)
 Make sure the ubuntu ISO you download is for ARM 64-bit
-Here is the [link](https://cdimage.ubuntu.com/releases/16.04/release/ubuntu-16.04.4-server-arm64.iso).
+Here is the [link](https://cdimage.ubuntu.com/releases/16.04/release/ubuntu-16.04.7-server-arm64.iso).
 
 ### - Create a QEMU disk image (preferably large so that we don't need to resize).
 ```
